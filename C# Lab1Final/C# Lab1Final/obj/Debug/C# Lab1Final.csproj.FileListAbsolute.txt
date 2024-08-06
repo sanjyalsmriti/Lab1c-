@@ -1,0 +1,7 @@
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\bin\Debug\C# Lab1Final.exe.config
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\bin\Debug\C# Lab1Final.exe
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\bin\Debug\C# Lab1Final.pdb
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\obj\Debug\C# Lab1Final.csproj.AssemblyReference.cache
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\obj\Debug\C# Lab1Final.csproj.CoreCompileInputs.cache
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\obj\Debug\C# Lab1Final.exe
+C:\Users\smriti\OneDrive\Desktop\DOTNET Smiriti LAB1\C# Lab1Final\C# Lab1Final\obj\Debug\C# Lab1Final.pdb
